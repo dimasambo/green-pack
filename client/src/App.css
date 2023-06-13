@@ -1,0 +1,14 @@
+body {
+  place-items: baseline!important;
+}
+
+#root {
+  width: 100vw;
+  margin-bottom: 60px;
+}
+
+.container {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 2rem;
+}
